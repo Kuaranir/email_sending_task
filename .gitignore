@@ -1,0 +1,6 @@
+/venv
+/.idea
+1.txt
+example.py
+read-sheet.py
+service_account_key.json
